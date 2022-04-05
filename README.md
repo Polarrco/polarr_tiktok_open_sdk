@@ -1,3 +1,3 @@
 # Tik Tok Open SDK
 
-But as a package.x
+But as a package.
